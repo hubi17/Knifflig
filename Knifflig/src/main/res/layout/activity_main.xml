@@ -20,6 +20,25 @@
             android:layout_height="wrap_content"
             android:id="@+id/blankTextView"
             android:layout_column="0"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/PlayerOneTextView"
+            android:text="@string/player1"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:layout_column="2" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/player2"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:id="@+id/PlayerTwoTextView"
+            android:layout_column="4" />
+
     </TableRow>
 
     <TableRow
@@ -33,6 +52,12 @@
                 android:text="@string/ones"
                 android:id="@+id/onesTextView"
                 android:layout_column="0"/>
+
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/OnesSpinner"
+            android:layout_column="2"/>
 
     </TableRow>
 

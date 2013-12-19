@@ -21,5 +21,7 @@
     <string name="chance">Chance</string>
     <string name="total_bottom">Total Bottom</string>
     <string name="total">Total</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
 
 </resources>
