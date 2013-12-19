@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Knifflig</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="ones">Ones</string>
+    <string name="twos">Twos</string>
+    <string name="threes">Threes</string>
+    <string name="fours">Fours</string>
+    <string name="fives">Fives</string>
+    <string name="sixes">Sixes</string>
+    <string name="total_top">Total Top</string>
+    <string name="bonus">Bonus</string>
+    <string name="three_of_a_kind">Three of a kind</string>
+    <string name="four_of_a_kind">Four of a kind</string>
+    <string name="full_house">Full House</string>
+    <string name="small_straight">Small Straight</string>
+    <string name="large_straight">Large Straight</string>
+    <string name="flush">Flush</string>
+    <string name="chance">Chance</string>
+    <string name="total_bottom">Total Bottom</string>
+    <string name="total">Total</string>
+
+</resources>
